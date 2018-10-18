@@ -9,8 +9,7 @@ module.exports = {
             ]
         },
         'postcss-preset-env': {
-            stage: 0
-        },
-        'cssnano': {}
+            stage: 3
+        }
     }
 }

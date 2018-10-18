@@ -22,7 +22,7 @@ const Layout: React.SFC<Props> = ({ children, title = 'This is the default title
         {children}
         <footer>
             I'm here to stay
-    </footer>
+        </footer>
     </div>
 )
 export default Layout

@@ -9,7 +9,6 @@
                     ]
                 }
             }
-        ],
-        "@zeit/next-typescript/babel"
+        ]
     ]
 }
